@@ -6,19 +6,19 @@ const blogPosts = [
   {
     title: "The Future of AI+Data Processing",
     excerpt: "Explore how ExomAI is revolutionizing the AI+Data landscape with our cutting-edge solutions.",
-    date: "2023-12-01",
+    date: "2024-12-01",
     image: "/placeholder.svg?height=200&width=300"
   },
   {
     title: "Optimizing Performance with In-Memory Databases",
     excerpt: "Learn how our in-memory database technology is setting new standards in data processing speed.",
-    date: "2023-11-15",
+    date: "2024-11-15",
     image: "/placeholder.svg?height=200&width=300"
   },
   {
     title: "AI Solutions for Businesses of All Sizes",
     excerpt: "Discover how ExomAI's flexible solutions can benefit companies from startups to enterprises.",
-    date: "2023-11-01",
+    date: "2024-11-01",
     image: "/placeholder.svg?height=200&width=300"
   }
 ]

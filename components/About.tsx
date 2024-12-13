@@ -5,7 +5,7 @@ export default function About() {
         <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-8 text-white">Our Positioning</h2>
         <div className="grid gap-6 lg:grid-cols-2">
           <div className="space-y-2 bg-[#041325] p-6 rounded-lg border border-[#0066FF]/20">
-            <h3 className="text-xl font-bold text-[#0066FF]">Leading In-Memory AI + Data Innovation</h3>
+            <h3 className="text-xl font-bold text-[#0066FF]">Leading In-Memory AI+Data Innovation</h3>
             <p className="text-gray-300">
               We specialize in multimodal distributed in-memory databases and GPU direct computation technology, redefining performance and efficiency in AI-driven data processing.
             </p>

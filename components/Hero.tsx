@@ -21,7 +21,7 @@ export default function Hero() {
             Fusing AI and Analytics at the Speed of Memory
           </h1>
           <p className="mx-auto max-w-[700px] text-gray-300 md:text-lg mt-4">
-            The Only Asian Company Specializing in In-Memory AI + Data Computation
+            The Only Asian Company Specializing in In-Memory AI+Data Computation
           </p>
           <Button className="bg-[#0066FF] text-white hover:bg-[#0055DD] border border-[#0066FF]/50">
             Learn More
